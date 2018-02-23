@@ -1,2 +1,2 @@
 # hive-project-zero
-Hive First Project
+First Project for Hive
